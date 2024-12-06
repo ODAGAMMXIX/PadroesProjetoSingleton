@@ -17,3 +17,12 @@ public final class ConfigurationManager {
         return config.getProperty(key);
     }
 }
+
+public class Main { 
+    public static void main(String[] args) {
+        
+ConfigurationManager configManager = ConfigurationManager.getInstance();
+String url = configManager.getProperty("url");
+
+    }
+}
