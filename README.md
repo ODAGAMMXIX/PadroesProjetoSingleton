@@ -58,7 +58,7 @@ Na Inicialização da Classe:
 
 5. Exemplo de Uso:
    ![image](https://github.com/user-attachments/assets/18a6b30e-007b-413f-8c35-ea4d936d815b)
-
+https://github.com/ODAGAMMXIX/PadroesProjetoSingleton/blob/main/image.png
 public class Main {
     public static void main(String[] args) {
         // Primeira chamada ao método getInstance()
